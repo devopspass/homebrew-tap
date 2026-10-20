@@ -2,7 +2,7 @@ class DopCallRecorder < Formula
   desc "Call auto-recorder and offline Whisper transcriber for macOS (DevOps Pass)"
   homepage "https://github.com/devopspass/dop-call-recorder"
   url "https://github.com/devopspass/dop-call-recorder/releases/download/v1.0.0/dop-call-recorder-1.0.0.tar.gz"
-  sha256 "69907f671a4737ad60faf72b1f1d3fede8ef1ff9b21c30645f232b9deb43ba62"
+  sha256 "239a37ced79a9b1993119122441f4384d93672b386f87c22c5c63d01e74ec438"
   license "MIT"
 
   depends_on arch: :arm64
